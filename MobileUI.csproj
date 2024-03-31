@@ -14,13 +14,4 @@
     <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="SMAPI.Toolkit.CoreInterfaces">
-	<HintPath>C:\Back\Stardew Valley\SMAPI.Toolkit.CoreInterfaces.dll</HintPath>
-    </Reference>
-	<Reference Include="0Harmony">
-	<HintPath>C:\Back\Stardew Valley\0Harmony.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
