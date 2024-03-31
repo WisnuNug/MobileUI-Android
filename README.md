@@ -20,3 +20,6 @@ You need SMAPI Android By ZAneyork﻿
 Put MobileUI to game mods folder
 play
 (click the hammer button to open menu)
+
+
+I'm not good at writing C# code but I'm still learning to understand it. If there's anything written about how it works or something else that I might be wrong, please help me, thank you.
