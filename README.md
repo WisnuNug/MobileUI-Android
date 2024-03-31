@@ -11,14 +11,19 @@ With these mods you can feel it!!
 
 
 Mobile UI mods replace vanilla time box with original game version!!
+
 These mods are made specifically for Android players, and not for PC.
+
 These Mods are highly compatible with several User Interface (CP) Mods Like vintage, overgrown etc.
 
 
-Installation
+Installation :
 You need SMAPI Android By ZAneyork﻿
+
 Put MobileUI to game mods folder
+
 play
+
 (click the hammer button to open menu)
 
 
